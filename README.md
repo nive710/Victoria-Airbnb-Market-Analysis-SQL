@@ -269,4 +269,4 @@ The analytical SQL view (`vw_airbnb_clean`) created in this project serves as th
 
 ➡️ **Power BI Repository**
 
-https://github.com/nive710/Airbnb-Victoria-PowerBI
+https://github.com/nive710/Victoria-Airbnb-Market-Analysis-PowerBI
