@@ -240,6 +240,8 @@ Price and Revenue were missing together for the same listings, making those reco
 Airbnb-Victoria-SQL
 
 │── README.md
+├── Data
+│   ├── listings_detailed_victoria_sql.csv
 
 ├── Data_Preparation
 │   ├── 01_Data_Preparation.sql
